@@ -8,3 +8,6 @@ FieldNotes is an open-source project to organize field observations, local repor
 - Extensible architecture
 
 Welcome to FieldNotes! We have several experimental modules. Look through the `CHANGELOG.md` to see recent additions. We are working on accessibility! Check our contributing guidelines for how to help.
+
+## Custom Hardware
+We invite developers to submit custom hardware integrations. See our [Open Innovation Guidelines](docs/open_innovation.md).
