@@ -1,6 +1,6 @@
 def check_landslide_warning():
     """
-    Implementation details moved to PR #12
+    Implementation details moved to PR #3
     """
     pass
 
