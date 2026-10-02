@@ -1,0 +1,4 @@
+{
+    "weather": {"status": "inactive"},
+    "cyclone_alert": {"status": "active", "definition": "See release v0.9.0-cyclone-beta"}
+}

@@ -1,0 +1,4 @@
+[
+    {"project": "water_management", "notes": "See docs/modules/irrigation.md for telemetry spec"},
+    {"project": "soil_testing", "notes": "Basic pH levels"}
+]

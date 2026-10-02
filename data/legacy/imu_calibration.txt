@@ -1,0 +1,1 @@
+Calibration data shifted to `docs/modules/kinematics.md`. Please refer to that document for the new MPU6050 tracking protocol.

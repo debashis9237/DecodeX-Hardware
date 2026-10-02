@@ -1,0 +1,14 @@
+{
+    "title": "AI-Based Interactive Learning Assistant for Classroom Education",
+    "theme": "EduTech",
+    "bg": "Teachers often have to manage large classrooms and cannot give personalized attention to every student. Students may hesitate to ask basic questions during lectures.",
+    "desc": "There is a gap in real-time, personalized assistance for students in physical classroom environments without relying solely on screen-based screen-time.",
+    "challenge": "Design an interactive physical device that can assist students with queries, quizzes, or basic tutoring during or after class, reducing the teacher's load.",
+    "solution": "A smart hardware assistant (e.g., a desktop bot or smart speaker prototype) that can process educational queries, provide hints, and guide the student through problem-solving.",
+    "features": "- Essential: Voice or text input, educational query processing, audio/visual feedback.\n- Optional: Progress tracking, offline local knowledge base, integration with a teacher's dashboard.",
+    "hardware": "Raspberry Pi, microphone, speaker, LCD/OLED display, buttons.",
+    "deliverables": "Prototype, demonstration of tutoring capability, source code, system diagram, testing results, brief documentation.",
+    "constraints": "Affordability, reliability, child-friendly design.",
+    "eval": "Functionality, technical implementation, educational value, usability.",
+    "ethics": "Must not store identifying data of minors without consent. Responses must be age-appropriate and safe."
+}
