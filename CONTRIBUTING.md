@@ -11,3 +11,4 @@ We welcome contributions to FieldNotes!
 ## Specific Areas
 - For accessibility issues, specifically vocal pattern parsing, please review `src/plugins/audio_parser.py`.
 - Please ensure all plastic detection models follow the guidelines in `data/models/plastic_detection.md`.
+- If you wish to build an entirely new integration, refer to `src/plugins/custom_hardware.md`.
